@@ -22,7 +22,7 @@ function handleText(textNode) {
 function replaceText(v)
 {
   // "YCombinator" -> "DildoFarm"
-  v = v.replace(/\bY ?Combinator\b/g, "DildoFarm");
+  v = v.replace(/\bY ?Combinator\b/g, "Dildo Farm");
 
   // "YC" -> "DF"
   v = v.replace(/\bYC\b/g, "DF");
