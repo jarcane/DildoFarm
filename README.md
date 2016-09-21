@@ -10,3 +10,8 @@ This extension is not yet provided on the Chrome Web Store, but a packed version
 
 ![df](http://i.imgur.com/YskFT44.png)
 ![nc](http://i.imgur.com/D0RhOof.png)
+
+
+## Commentary
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/m9uoJyyoVyk/0.jpg)](http://www.youtube.com/watch?v=m9uoJyyoVyk)
