@@ -32,6 +32,7 @@ function replaceText(v)
 
   // HN -> NC
   v = v.replace(/\bHN\b/g, "NC");
+  v = v.replace(/\bHNs\b/g, "NCs");
 
   return v;
 }
